@@ -17,12 +17,3 @@ for i in range(size):
 bubble_sort(lst)
 
 
-Output:-
-AMAN
-Enter size of the list: 	5
-Enter the element: 	1
-Enter the element: 	2
-Enter the element: 	3
-Enter the element: 	4
-Enter the element: 	5
-[1, 2, 3, 4, 5]
